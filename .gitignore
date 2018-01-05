@@ -1,0 +1,5 @@
+hooli_venv
+social.db
+.idea
+.DS_Store
+__pycache__
